@@ -1,4 +1,2 @@
-package myapp;
-
-public class Cat {
+package myapp;public class Cat {
 }
